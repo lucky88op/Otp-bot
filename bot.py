@@ -9,7 +9,7 @@ BOT_TOKEN = '8551041074:AAHKUJLAqT2sWC7-YeIqjVE3J96bhmRUl6I' # Apna Bot Token da
 
 ADMIN_ID = 7078723346
 BACKUP_LINK = "https://t.me/Babu_Otp_Group"
-FSUB_CHANNEL = "https://t.me/+oq-LR8d4cj41MmQ1"
+FSUB_CHANNEL = "Babu_Number"
 
 client = TelegramClient('otp_pro_final_v24', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
 
