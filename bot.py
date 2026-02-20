@@ -3,13 +3,13 @@ import os
 from telethon import TelegramClient, events, Button
 
 # --- CONFIGURATION ---
-API_ID = 34964564  # Apna API ID dalein
-API_HASH = '8a97e889da92079dbf90c59cee767e5b' # Apna API Hash dalein
-BOT_TOKEN = '8551041074:AAHKUJLAqT2sWC7-YeIqjVE3J96bhmRUl6I' # Apna Bot Token dalein
+API_ID = 33064462  # Apna API ID dalein
+API_HASH = '965778fd87a7901719b1fdb09e95cc1e' # Apna API Hash dalein
+BOT_TOKEN = '8574246799:AAFCBxIYaiuoJMCrrM8wurYzz4wS--S5RSY' # Apna Bot Token dalein
 
-ADMIN_ID = 7078723346
-BACKUP_LINK = "https://t.me/+_k9zIHiV_zVlN2Ri"
-FSUB_CHANNEL = "Babu_Number"
+ADMIN_ID = 7113666466
+BACKUP_LINK = "https://t.me/NumOTPGC"
+FSUB_CHANNEL = "TeamOFDark1"
 
 client = TelegramClient('otp_pro_final_v24', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
 
