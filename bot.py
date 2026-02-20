@@ -8,7 +8,7 @@ API_HASH = '965778fd87a7901719b1fdb09e95cc1e' # Apna API Hash dalein
 BOT_TOKEN = '8574246799:AAFBYO0GmvPTvRp5_tUDF1IdYfBkXmrJeHs' # Apna Bot Token dalein
 
 ADMIN_ID = 7113666466
-BACKUP_LINK = "https://t.me/NumOTPGC"
+BACKUP_LINK = "https://t.me/+F7yFV_4-V2I1ZDIy"
 FSUB_CHANNEL = "TeamOFDark1"
 
 client = TelegramClient('otp_pro_final_v24', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
